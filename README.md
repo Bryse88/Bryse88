@@ -1,6 +1,5 @@
 # Hi there 👋
 
-📧 bfturner@wisc.edu
 📧 bryseTurner0130@gmail.com
 
 
