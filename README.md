@@ -4,9 +4,9 @@
 
 
 ## About Me  
-I'm a CS + Econ student passionate about quantative finance and entrepenuership
+I'm a CS + Econ student interested in quant finance and entrepenuership
 
-🔭 Currently working on FIDE & Google Efficient Chess AI Challenge on Kaggle and building Encite
+🔭 Currently working on building Encite(my startup) and a stealth as an architect
 
 🌱 Learning: Transformer Model, C, Reinforcement Learning, and Algo Dev
 
