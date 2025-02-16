@@ -8,5 +8,5 @@ I'm a CS + Econ student interested in quant finance and entrepenuership
 
 🔭 Currently working on building Encite(my startup) and a stealth as an architect
 
-🌱 Learning: Transformer Model, C, Reinforcement Learning, and Algo Dev
+🌱 Learning: Training Deep Learning Model on CHTC and Algo Dev for options training
 
