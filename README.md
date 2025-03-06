@@ -6,7 +6,7 @@
 ## About Me  
 I'm a CS + Econ student interested in quant finance and entrepenuership
 
-🔭 Currently working on building Encite(my startup) and a stealth as an architect
+🔭 Currently working on building Encite(my startup)
 
-🌱 Learning: Training Deep Learning Model on CHTC and Algo Dev for options training
+🌱 Learning: Training Deep Learning Model on Lambda Labs and Algo Dev for options training
 
