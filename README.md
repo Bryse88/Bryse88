@@ -8,5 +8,5 @@ I'm a CS + Econ student interested in quant finance and entrepenuership
 
 🔭 Currently working on building Encite(my startup)
 
-🌱 Building: Multimodal Architecture utilizing Heteogeneus Graph Transformer(HGT) -> Two Tower Retrieval Model -> PPO- Based Reinforcement Learning Sheduler
+🌱 Building Multimodal Architecture utilizing Heterogeneous Graph Transformer(HGT) -> Two Tower Retrieval Model -> PPO Based Reinforcement Learning Scheduler
 
