@@ -8,5 +8,5 @@ I'm a CS + Econ student interested in quant finance and entrepenuership
 
 🔭 Currently working on building Encite(my startup)
 
-🌱 Learning: Training Deep Learning Model on Lambda Labs and Algo Dev for options training
+🌱 Buidling Multimodal Architecture utilizing Heteogeneus Graph Transformer(HGT) -> Two Tower Retrieval Model -> PPO- Based Reinforcement Learning Sheduler
 
