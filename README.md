@@ -10,3 +10,5 @@ I'm a CS + Econ student interested in quant finance and entrepenuership
 
 🌱 Building Multimodal Architecture utilizing Heterogeneous Graph Transformer(HGT) -> Two Tower Retrieval Model -> PPO Based Reinforcement Learning Scheduler
 
+👉 Attempting to maximize alpha in crypto
+
