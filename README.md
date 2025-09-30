@@ -4,11 +4,9 @@
 
 
 ## About Me  
-I'm a CS + Econ student interested in quant finance and entrepenuership
+I'm a CS + Econ student interested in software engineering and entrepenuership
 
-🔭 Currently working on building Encite(my startup)
+🌱 Buidling AI for security and defense. Implementing orchestration technology in live venues and security fields. 
 
-🌱 Building Multimodal Architecture utilizing Heterogeneous Graph Transformer(HGT) -> Two Tower Retrieval Model -> PPO Based Reinforcement Learning Scheduler
-
-👉 Attempting to maximize alpha in crypto
+👉 Prev experience in multimodal architecture(HGT, two tower, ppo), gcp , azure, nats, and flutter. 
 
