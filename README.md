@@ -1,6 +1,6 @@
 # Hi there 👋
 
-📧 bryseTurner0130@gmail.com
+📧 bryseTurner0130@gmail.com | bryson@everos.ai
 
 
 # About Me:
