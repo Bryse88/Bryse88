@@ -1,7 +1,4 @@
-# Hi there 
-
-bryson@everos.ai
-
+brysonturner.com
 
 
 
